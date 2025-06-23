@@ -1,12 +1,27 @@
-# React + Vite
+# 🚀 Landing Page con CI/CD usando GitHub Pages
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una **Landing Page estática** desarrollada con **React + Vite**, y desplegada automáticamente utilizando **GitHub Actions** y **GitHub Pages** como parte de un flujo CI/CD.
 
-Currently, two official plugins are available:
+## 🧾 Descripción
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+La página presenta información personal de forma simple y moderna, incluyendo secciones como presentación, servicios y contacto. Está optimizada para ser responsiva y accesible.
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- HTML5
+- CSS3 (o TailwindCSS si usas)
+- Git y GitHub
+- GitHub Actions (CI/CD)
+- GitHub Pages
+
+## 📦 Instalación y ejecución local
+
+Clona este repositorio y ejecuta el proyecto localmente:
+
+```bash
+git clone https://github.com/hernanxd7/landing-page-cicd.git
+cd landing-page-cicd
+npm install
+npm run dev
